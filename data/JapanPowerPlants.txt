@@ -1,0 +1,18 @@
+Name	Latitude	Longitude
+Fugen/Tsuruga Nuclear Power Plants	35.672778	136.077222
+Fukushima Nuclear Power Plants 1 and 2	37.421389	141.0325
+Genkai Nuclear Power Plant	33.515556	129.837222
+Hamaoka Nuclear Power Plant	34.623611	138.1425
+Higashidori Nuclear Power Plant	41.188056	141.390278
+Ikata Nuclear Power Plant	33.490833	132.311389
+Kashiwazaki-Kariwa Nuclear Power Plant	37.428333	138.601667
+Mihama/Monju Nuclear Power Plants	35.740278	135.988056
+Oi Nuclear Power Plant	35.540556	135.651944
+Oma Nuclear Power Plant	41.509722	140.910278
+Onagawa Nuclear Power Plant	38.401111	141.499722
+Sendai Nuclear Power Plant	31.833611	130.189722
+Shika Nuclear Power Plant	37.061111	136.726389
+Shimane Nuclear Power Plant	35.538333	132.999167
+Takahama Nuclear Power Plant	35.522222	135.504722
+Tokai Nuclear Power Plant	36.466389	140.606667
+Tomari Nuclear Power Plant	43.036111	140.5125

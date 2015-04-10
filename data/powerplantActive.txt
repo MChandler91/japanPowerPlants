@@ -1,0 +1,22 @@
+Name	Activity
+Fugen	Decommissioned
+Fukushima 1	Cold Shutdown
+Fukushima 2	Cold Shutdown
+Genkai	Suspended
+Hamaoka	Suspended
+Higashidori	Suspended
+Ikata	Suspended
+Kashiwazaki-Kariwa	Suspended
+Maki	Withdrawn
+Mihama	Suspended
+Monju	Suspended
+Oi	Shudown for Maintenance
+Oma	Under Construction
+Onagawa	Cold Shutdown
+Sendai	Suspended
+Shika	Suspended
+Shimane	Suspended
+Takahama	Suspended
+Tokai	Suspended
+Tomari	Shutdown for Maintenance
+Tsuruga	Suspended
